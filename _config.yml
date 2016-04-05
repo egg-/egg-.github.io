@@ -1,0 +1,49 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# Basic
+name:               "egg"
+
+# URL
+baseurl:            ""
+permalink:          /:year/:month/:day/:title.html
+
+google_analytics: UA-8848238-1
+
+# Markdown
+markdown:           rdiscount
+
+rdiscount:
+  extensions:
+    - autolink      # greedily urlify links
+    - footnotes     # footnotes
+    - smart         # typographic substitutions with SmartyPants
+
+# Navigation
+nav:
+  - name:           "About"
+    href:           "/about"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+gem:
+  - jekyll-sitemap
+  - jekyll-feed

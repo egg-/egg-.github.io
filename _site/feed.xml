@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>egg</title>
+		<link></link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Start</title>
+        <description>&lt;p class=&quot;lead&quot;&gt;github page를 이용한 사이트 시작.&lt;/p&gt;
+
+</description>
+				<pubDate>Tue, 05 Apr 2016 00:00:00 +0900</pubDate>
+				<link>/2016/04/05/start.html</link>
+				<guid isPermaLink="true">/2016/04/05/start.html</guid>
+			</item>
+		
+	</channel>
+</rss>
