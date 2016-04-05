@@ -38,6 +38,7 @@ defaults:
     values:
       layout:       "post"
 
-gem:
+gems:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-github-metadata
