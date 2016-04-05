@@ -18,6 +18,8 @@ markdown:           kramdown
 nav:
   - name:           "About"
     href:           "/about"
+  - name:           "Repositories"
+    href:           "/repositories"
 
 # Sass
 sass:
