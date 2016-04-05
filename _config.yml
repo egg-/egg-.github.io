@@ -9,7 +9,7 @@ name:               "egg"
 baseurl:            ""
 permalink:          /:year/:month/:day/:title.html
 
-google_analytics: UA-8848238-1
+google_analytics: UA-8848238-2
 
 # Markdown
 markdown:           kramdown
