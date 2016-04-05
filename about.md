@@ -3,9 +3,7 @@ title: About
 permalink: /about/
 ---
 
-## me
-
-[{% icon fa-github-square %}](https://github/egg- "My Github")
+<p class="lead"><a href="https://github/egg-" title="My Github"><i class="fa fa-github-square"></i></a></p>
 
 ## [madsquare](http://madsquare.net)
 
