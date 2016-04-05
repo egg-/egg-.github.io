@@ -12,13 +12,7 @@ permalink:          /:year/:month/:day/:title.html
 google_analytics: UA-8848238-1
 
 # Markdown
-markdown:           rdiscount
-
-rdiscount:
-  extensions:
-    - autolink      # greedily urlify links
-    - footnotes     # footnotes
-    - smart         # typographic substitutions with SmartyPants
+markdown:           kramdown
 
 # Navigation
 nav:
